@@ -31,7 +31,7 @@
 <li>👨‍💻 <a href="https://www.linkedin.com/in/vitor-soyama/">LinkedIn</a></li>
 <li>💻 <a href="https://vitorsoyama.github.io/">Portfólio</a></li>
 <li>💻 <a href="https://www.dio.me/users/vitorissamu_vs">DIO</a></li>
-<li>📧 E-mail: <a href="mailto:vitorissamu.vs@gmail.com">Seu Email</a></li>
+<li>📧 E-mail: <a href="mailto:vitorissamu.vs@gmail.com">Email</a></li>
 </ul>
 
 <p>Sempre aberto para colaborações e novas oportunidades! 🚀</p>
